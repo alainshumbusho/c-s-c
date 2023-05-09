@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/compare/v1.2.3...v1.2.4) (2023-05-09)
+
+
+### Dependencies
+
+* Update dependency pg8000 to v1.29.5 ([#721](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/issues/721)) ([6956c78](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/commit/6956c78cfbd74fb0c825d1da1cd943ddf0041246))
+
 ## [1.2.3](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/compare/v1.2.2...v1.2.3) (2023-05-08)
 
 
